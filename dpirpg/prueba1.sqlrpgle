@@ -1,21 +1,38 @@
 **free
 
+//hola esta es la rama2
+//titulo
+
+
 dcl-s variable1 char(10) inz('hola');
 
 dsply variable2;
 dsply variable;
+dsply variable5;
 
 //se agrega logica de boton
 //en rama principal
 
 
 main();
+main2();
 *inlr = *on;
 return;
 
 dcl-proc main;
    dcl-pi *n end-pi; 
 
- //rama principal
+ //resta es la rama2
+
+end-proc;
+
+dcl-proc main2;
+
+ //prueba rama 2
+ //esta es la prueba dos de rama 2
+ //esta es la prueba dos de rama 2.2
+
+
+//se agrega logica nueva ultima!!!!!!!!!!!!!!
 
 end-proc;
