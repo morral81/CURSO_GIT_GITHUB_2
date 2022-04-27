@@ -5,6 +5,9 @@ dcl-s variable1 char(10) inz('hola');
 dsply variable2;
 dsply variable;
 
+//se agrega logica de boton
+//en rama principal
+
 
 main();
 *inlr = *on;
