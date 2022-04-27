@@ -13,4 +13,6 @@ return;
 dcl-proc main;
    dcl-pi *n end-pi; 
 
+ //rama principal
+
 end-proc;
