@@ -22,5 +22,7 @@ end-proc;
 dcl-proc main2;
 
  //prueba rama 2
+ //esta es la prueba dos de rama 2
+ //esta es la prueba dos de rama 2.2
 
 end-proc;
