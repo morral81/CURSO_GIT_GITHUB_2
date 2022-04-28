@@ -9,6 +9,8 @@ dsply variable1;
 dsply variable5;
 dsply variable77;
 dsply variable88;
+//cambio sobre la principal
+//cambio sobre la principal 2
 
 main();
 *inlr = *off;
