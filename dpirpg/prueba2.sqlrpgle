@@ -4,6 +4,8 @@ dcl-s variable1 char(20) inz('hola');
 dcl-s variable5 char(10) inz('hola');
 dcl-s variable5 char(10) inz('hola');
 dcl-s variable5 char(10) inz('hola');
+dcl-s titulo    char(10) inz('para hacer conflicto en rama2');
+
 
 dsply variable1;
 dsply variable5;
