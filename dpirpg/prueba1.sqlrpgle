@@ -13,7 +13,7 @@ dsply variable5;
 //se agrega logica de boton
 //en rama principal
 
-
+main()3;
 main();
 main2();
 *inlr = *on;
