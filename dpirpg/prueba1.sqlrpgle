@@ -9,6 +9,8 @@ dcl-s variable1 char(10) inz('hola');
 dsply variable2;
 dsply variable;
 dsply variable5;
+dsply variable66 char(50) inz('este cambio se realizo desde github');
+
 
 //se agrega logica de boton
 //en rama principal
