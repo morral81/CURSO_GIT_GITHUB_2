@@ -10,6 +10,7 @@ dsply variable2;
 dsply variable;
 dsply variable5;
 dsply variable66 char(50) inz('este cambio se realizo desde github');
+dsply prueba;
 
 
 //se agrega logica de boton
