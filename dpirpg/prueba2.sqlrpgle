@@ -15,6 +15,8 @@ dsply variable88;
 //cambio sobre la principal 2
 //cambio sobre la principal 3
 
+//estos cambios son para la branch de diseñocompleto
+
 main();
 *inlr = *off;
 return;

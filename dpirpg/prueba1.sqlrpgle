@@ -13,6 +13,8 @@ dsply variable66 char(50) inz('este cambio se realizo desde github');
 dsply prueba;
 
 
+//estos cambios son para la branch de diseñocompleto
+
 //se agrega logica de boton
 //en rama principal
 
