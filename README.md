@@ -1,3 +1,3 @@
-# curso_git_github
-#esto es una prueba para git
-#ultima actualizacion
+###curso_git_github
+#esto es proyecto para prueba para git
+#para concer las funcionalidades de git
