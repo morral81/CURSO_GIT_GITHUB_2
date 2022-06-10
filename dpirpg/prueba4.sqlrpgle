@@ -7,6 +7,10 @@ dsply variable;
 
 dsply 'para prueba';
 
+//pruebafsfasfafffafadfagadg
+//asfasdfadfaff
+
+
 main();
 *inlr = *on;
 return;
